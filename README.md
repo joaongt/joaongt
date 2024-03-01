@@ -21,4 +21,7 @@ Olá! Eu sou @joaongt ou João Victor. Sou um entusiasta de tecnologia, atualmen
 ## Projetos
 - 🍲 Chá de Panela Duda e Vini [github.com/joaongt/chadepaneladudaevini]
 
+## Projetos em desenvolvimento
+- 🐩 Caleiras Amorosas [github.com/joaongt/coleirasamorosas]
+
 Seja bem-vindo para explorar meus repositórios e não hesite em entrar em contato se quiser colaborar ou trocar ideias! 😄
